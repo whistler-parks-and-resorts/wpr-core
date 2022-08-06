@@ -7,7 +7,7 @@ namespace WPR.Presentation.Controllers
     public class SecurityController : ControllerBase
     {
         [HttpPost]
-        public IActionResult CreateUser()
+        public IActionResult CreateCustomer()
         {
             return Ok();
         }

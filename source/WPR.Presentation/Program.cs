@@ -1,3 +1,5 @@
+using WPR.Infrastructure.Modules;
+
 namespace WPR.Presentation
 {
     public class Program
@@ -10,6 +12,7 @@ namespace WPR.Presentation
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.RegisterDependencies();
 
             var app = builder.Build();
 
