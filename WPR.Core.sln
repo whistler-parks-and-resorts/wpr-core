@@ -11,12 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{0A441715-992D-47FC-A5D9-3BCE12887B4B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE7F695F-8AE6-45B0-B71A-62BECF7A79FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPR.Presentation", "source\WPR.Presentation\WPR.Presentation.csproj", "{010B43DC-C89D-4BC9-AD17-88FDCAE04A54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A6A5B70-DE59-4C4D-805E-4BC46EBBC6AC}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPR.Presentation", "source\WPR.Presentation\WPR.Presentation.csproj", "{010B43DC-C89D-4BC9-AD17-88FDCAE04A54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
