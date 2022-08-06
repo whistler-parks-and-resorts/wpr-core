@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPR.Infrastructure", "source\WPR.Infrastructure\WPR.Infrastructure.csproj", "{21CA4BFE-C110-4A85-8B21-7880FA7BD737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,12 +30,17 @@ Global
 		{010B43DC-C89D-4BC9-AD17-88FDCAE04A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{010B43DC-C89D-4BC9-AD17-88FDCAE04A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{010B43DC-C89D-4BC9-AD17-88FDCAE04A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CA4BFE-C110-4A85-8B21-7880FA7BD737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CA4BFE-C110-4A85-8B21-7880FA7BD737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CA4BFE-C110-4A85-8B21-7880FA7BD737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CA4BFE-C110-4A85-8B21-7880FA7BD737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{010B43DC-C89D-4BC9-AD17-88FDCAE04A54} = {55B025E8-4194-4F8A-A081-29C2538901AA}
+		{21CA4BFE-C110-4A85-8B21-7880FA7BD737} = {8EC179D6-41B0-4971-BC38-95D316989D9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEB97A19-BC58-455D-9208-E7F403245E5F}
